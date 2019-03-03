@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) or exit;
  * Plugin Name: The Events Calendar List Widget Replacement
  * Plugin URI: https://coreysalzano.com/wordpress/the-events-calendar-list-widget-replacement/
  * Description: When the Events List widget vanishes due to there being no upcoming events, this plugin outputs something else in its place. An add-on for The Events Calendar.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Corey Salzano
  * Author URI: https://github.com/csalzano/the-events-calendar-list-widget-replacement
  * Text Domain: events-list-widget-replacement
